@@ -1,4 +1,8 @@
 
+:root¨{
+
+}
+
 nav {
     background-color: darkblue;
     padding: 10px;
@@ -14,6 +18,7 @@ main {
     max-width: 840px;
 }
 
+/* Esta es una prueba de comentario en css*/
 h1 {
     color: darkblue;
 }
